@@ -12,3 +12,6 @@ How might you change your program if you needed to support multiple events at th
 
 Display locations that are closest to the user and display the events that will be taking place there.
 
+
+To build: javac Main.java && java Main
+
